@@ -1,5 +1,5 @@
 # [URL Shortener Microservice]
-User stories:
+FRs:
 
 You can POST a URL to /api/shorturl and get a JSON response with original_url and short_url properties. Here's an example: { original_url : 'https://google.com', short_url : 1}
 
